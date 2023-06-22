@@ -113,10 +113,14 @@ body {
     height: 30px;
  }
 
- .font_w {
-    font-weight:100;
- }
-
- .bg_black {
+.bg_black {
     background-color: black;
  }
+
+ .font_w {
+    font-size: 50%;
+ }
+
+.pb_low {
+    padding-bottom: 50px;
+}
