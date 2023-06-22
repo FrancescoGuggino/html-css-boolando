@@ -1,6 +1,6 @@
 * {
-    margin: o;
-    padding: o;
+    margin: 0;
+    padding: 0;
     box-sizing: auto;
 }
 
@@ -43,13 +43,18 @@
 }
 
 .h_50 {
-    height: 50px;
+    height: 55px;
 }
 
 .h550 {
-    height: 550px;
+    height: 750px;
 }
 
 .mt_low_20 {
     margin-top: -20px;
+}
+
+.name {
+    padding-bottom: 5px;
+    margin-top: 5px;
 }
