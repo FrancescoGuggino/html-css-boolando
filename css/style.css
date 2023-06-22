@@ -58,3 +58,18 @@
     padding-bottom: 5px;
     margin-top: 5px;
 }
+
+.mt_10 {
+    margin-top: 10px;
+}
+
+.pb_10 {
+    padding-bottom: 10px;
+}
+.pt_25 {
+    padding-top: 25px;
+}
+
+.pb_25 {
+    padding-bottom: 25px;
+}
