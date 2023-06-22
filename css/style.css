@@ -21,8 +21,8 @@
     display: flex;
 }
 
-.wrap_f {
-    flex-wrap: wrap;
+.column_f {
+    flex-direction: column;
 }
 
 .card {
