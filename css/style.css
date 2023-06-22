@@ -76,3 +76,7 @@
 .pb_25 {
     padding-bottom: 25px;
 }
+
+.min_width_370 {
+    min-width: 370px;
+}
