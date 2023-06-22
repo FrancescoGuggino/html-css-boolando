@@ -4,6 +4,10 @@
     box-sizing: auto;
 }
 
+body {
+    font-family: 'Roboto', sans-serif;
+}
+
 .main_container {
     width: 70%;
     margin: auto;
@@ -22,6 +26,7 @@
     flex-direction: row;
     justify-content: flex-start;
     justify-content: space-between;
+    flex-wrap: wrap;
 }
 
 .column_f {
